@@ -1,0 +1,8 @@
+let name = ' Nantuna,Allyza J.';
+whatDoYouWannabecomeInYourLife = 'programmer';
+let gender = 'Female';
+let twitterHandle = '@yza1522';
+console.log('what is your name?',allyza);
+console.log('What do you wanna becone in your life?',programmer);
+console.log('Are you male or female?',female);
+console.log('My twitter:',TwitterHandle);
